@@ -1,0 +1,64 @@
+A Summer in Harbor — 海湾官网美术来源与使用说明
+游戏与美术制作：AlterU 项目 / A Summer in Harbor。
+本页展示22位虚构居民的独立方形肖像。原19位：9张早期新半身、4张身份保持胸腰重构、6张原avatar原字节复用；官方海报为宣传插画。
+网页未生成或改绘图像；所有消费图原样复制并完整等比展示。独立美术生产的背景去除/nearest缩放与历史审核在来源包保留。
+固定19图交付：2026-10-06，delivery-manifest.json SHA256 1ee208c6d3b51323135ec9ff49affc5db80be811d5706ca76f395c70f6b27f81
+许可：AlterU project usage permission (business confirmation)
+Generated through AlterU Media for this project. Recorded project permission covers technical processing, internal production, reuse across AlterU games and distribution with game source or builds. No additional attribution requirement was supplied in the business confirmation. This notice records project usage permission, not a universal open-source asset license. Source generation/task and local modifications remain in each manifest.
+这不是素材的通用开源或公共领域许可。公开来源链接与固定文件散列记录在本文件。生产与审核的内部记录不随本公开仓库分发，AI审查结论不代表人工逐图审批。
+Mara — https://images.aiwaves.tech/uploads/1791266384683-9kgfcnvodbm.webp
+Theo — https://images.aiwaves.tech/uploads/1791266684585-i1ewce1nq19.webp
+June — https://images.aiwaves.tech/uploads/1791266767129-1n3h4dcq4yz.webp
+Idris — https://images.aiwaves.tech/uploads/1791266856459-digqr9az3oj.webp
+Ruth — https://images.aiwaves.tech/uploads/1791266921545-1zbqw3lfrb2.webp
+Luis — https://images.aiwaves.tech/uploads/1791266991626-o13w0v64u0a.webp
+Nell — https://images.aiwaves.tech/uploads/1791267493703-95a76h8mari.webp
+Elena — https://images.aiwaves.tech/uploads/1791267608350-dcdhhiiw09b.webp
+Arthur — https://images.aiwaves.tech/uploads/1791267698523-isjut2mq44b.webp
+Avery Reed — https://images.aiwaves.tech/uploads/1791266536868-qszxiv6wpm.webp
+Samira Bell — https://images.aiwaves.tech/uploads/1791267824483-2684fqawwwq.webp
+Owen Price — https://images.aiwaves.tech/uploads/1791267932414-xdhfuc2c60q.webp
+Dani Costa — https://images.aiwaves.tech/uploads/1791268022051-7u7acy5zwhs.webp
+Rowan Ellis — https://images.aiwaves.tech/uploads/1791142835377-a7ivjczhud.webp
+Mira Vale — https://images.aiwaves.tech/uploads/1791143553840-u3zba7zqgtb.webp
+Jordan Pike — https://images.aiwaves.tech/uploads/1791144419305-h889tz4fn2i.webp
+Leila Hart — https://images.aiwaves.tech/uploads/1791144458061-0ldafrg7ere.webp
+Casey Morgan — https://images.aiwaves.tech/uploads/1791144497697-2cdtfj3pti3.webp
+Grant Cole — https://images.aiwaves.tech/uploads/1791144537137-g90im89kce5.webp
+A Summer in Harbor official poster — https://images.aiwaves.tech/uploads/1790875137258-8w5oux0ag2q.webp
+
+
+Game map sprite comparison
+All19 map sprite atlases are byte-identical assets from the released A Summer in Harbor game commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab. The complete stand/down frame is displayed with nearest pixel rendering; no atlas pixels are changed. Same existing AlterU project usage permission above applies.
+Rowan Ellis: game-rowan.png; SHA256 fc57b296b829e43a4d2d52d925d263e0d093ea882cba77911b814b0767e85b28; released source public/art/npc-rowan.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Jordan Pike: game-jordan.png; SHA256 8beef34c8b406b7dc61ecea550acbb46f95edbd8c325c14d921c3e6685e50b6c; released source public/art/npc-jordan.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Leila Hart: game-leila.png; SHA256 d9f514c3b986d8458b1ea3952f56766cd1c0aef13229285aa4f344c7bd47e3d4; released source public/art/npc-leila.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Casey Morgan: game-casey.png; SHA256 63b66e28d3854c7b23d473552a68f34c42300eef17d5fb981fd4dd85dafcef13; released source public/art/npc-casey.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Grant Cole: game-grant.png; SHA256 21acdf3db06a7aff9968feb95732793e2ccb62736bd5ffac66884d690c017044; released source public/art/npc-grant.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Avery Reed: game-avery.png; SHA256 07a3aca148d727b68c098e885985dd98eaeb32d77952be344fc90fc15ac27138; released source public/art/npc-avery.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Samira Bell: game-samira.png; SHA256 90f641147e9b30a3cd1ea8d2ef377e73895afc3df60e567efa08b1c40968d1f4; released source public/art/npc-samira.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Owen Price: game-owen.png; SHA256 f5e1594c83069bd1c3ea6b1654f5c3354edc5ef64c347f1fbc79a4dcbf806448; released source public/art/npc-owen.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Dani Costa: game-dani.png; SHA256 3ba4d2d6337546c10e71954b1821d8cde90df5783d0b15d3ac98981f1c9a832c; released source public/art/npc-dani.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Mara: game-mara.png; SHA256 28e0a4eb1a1361f8b19e57c5b5470accc77e7b3b22c0d3e14d11e4091214e1b8; released source public/art/npc-mara.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Theo: game-theo.png; SHA256 b8df02514811562175085b5b9b1cd701f98511cded8132097f97db50a13769d0; released source public/art/npc-theo.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+June: game-june.png; SHA256 4beb05b777eae1526e15b8eb779b01d82ed26fb01f7c79a19573c3df537b247e; released source public/art/npc-june.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Idris: game-idris.png; SHA256 1a92036ed34844502d04589d1dbf4205332d0b1d44280874873d47ec1d2f53dd; released source public/art/npc-idris.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Ruth: game-ruth.png; SHA256 296a1b9afffa1fd2bdc3fbc94b741d3d615650578ed068f3368077fe7072ca7e; released source public/art/npc-ruth.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Luis: game-luis.png; SHA256 4a557db3b250cde3ab5433d62b4aca8b224bac37404e78b40115f5be69ee704e; released source public/art/npc-luis.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Nell: game-nell.png; SHA256 4eb847a8d3d29c44b8ffb65fa33dd6b548dcbcb0964be86a9b872f97928983a3; released source public/art/npc-nell.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Elena: game-elena.png; SHA256 8ef32aa87faddc3282b698d041d058cf086c2858c75571c08f2b90a9e0ee36ac; released source public/art/npc-elena.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Arthur: game-arthur.png; SHA256 4a9d73594f53014448d709d2e1a4d4de6c727b677082cf13764d2f8131bd6669; released source public/art/npc-arthur.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+Mira Vale: game-mira.png; SHA256 0b2335174d87a01bcec9c83a780263a90863b92bc57f272ffca7df87babd419f; released source public/art/npc-mira.png; fixed commit 10c098326f91526e00b97c814c5f3b10f3c6a7ab
+
+
+Harper Quinn / Tess Moreno / Noor Bennett — 2026-10-06 added game residents
+Three square avatars and three map atlases are copied byte-identically from the game assets admitted by its owner. The complete stand/down frame and full square portrait are shown without pixel changes. Same AlterU project usage permission above applies. No ongoing technology news is claimed.
+Harper Quinn — portrait source: https://images.aiwaves.tech/uploads/1791278800423-gewa7y9vrd.webp
+Harper Quinn: harper.png; SHA256 bbde72ee79948d40835eca0ff85486641b81dca2f3fb03c42ef12c1ae6b611a4
+Harper Quinn: game-harper.png; SHA256 fdaa1f360e9776ce7dc9ae2d65e5d4a439f9ef3f6166aa819fd07827dda950db
+Tess Moreno — portrait source: https://images.aiwaves.tech/uploads/1791281018673-sxfst28njk.webp
+Tess Moreno: tess.png; SHA256 8e7d7e1129ee98468b19ca08822def23aecb9d47673e715ace614becf960a92a
+Tess Moreno: game-tess.png; SHA256 c70515c7d5332b33f7e8f557878509f3f6b8065d181f7956c6b980d552f770cc
+Noor Bennett — portrait source: https://images.aiwaves.tech/uploads/1791282254268-4rbnyzmii1.webp
+Noor Bennett: noor.png; SHA256 b463bbe3c5d1503b042ddc28b515c0f6154d8918ed25bfc10f421d1ba80797a7
+Noor Bennett: game-noor.png; SHA256 f6a7709b666a2862eaca5cc5e3116c208a63a57386c064e8ecf84109f6c19753

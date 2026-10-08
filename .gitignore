@@ -1,0 +1,9 @@
+dist/
+node_modules/
+output/
+artifacts/
+.openai/
+.sites-runtime/
+.sites-checkout/
+.env*
+.DS_Store

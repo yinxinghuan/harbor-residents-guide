@@ -1,0 +1,1089 @@
+[
+  {
+    "name": "Rowan Ellis",
+    "role": "烘焙师",
+    "headline": "一篮刚刚好的面包",
+    "bio": "Rowan做面包，常忍不住多烤一点，收摊时又心疼剩下的部分。这个夏天，Rowan想少做一点，认真听听别人真正想要什么。",
+    "daily": "整理当天的面包清单。",
+    "personality": "在意食物是否被浪费，也愿意调整自己熟悉的做法。",
+    "places": [
+      "旧街",
+      "潮间咖啡馆"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/rowan.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-rowan.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "做面包，也在意每一份是否被浪费。",
+    "schedule": [
+      {
+        "place": "旧街",
+        "ranges": [
+          "06:00–12:00",
+          "17:00–21:00"
+        ]
+      },
+      {
+        "place": "潮间咖啡馆",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan Pike",
+    "role": "海岸巡检员",
+    "headline": "把海边的问题先记下来",
+    "bio": "Jordan巡查海边的栏杆和路牌。发现问题时先记下来，不会因为看过一眼，就说事情已经修好了。",
+    "daily": "核对海岸路牌的工作记录。",
+    "personality": "做事认真，区分观察、记录和真正完成维修。",
+    "places": [
+      "钓鱼码头",
+      "海岸",
+      "港口"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/jordan.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-jordan.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "巡查海边的栏杆和路牌，先把问题记下来。",
+    "schedule": [
+      {
+        "place": "钓鱼码头",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "海岸",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "港口",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Leila Hart",
+    "role": "休假医生",
+    "headline": "把茶喝完的假期",
+    "bio": "Leila是一名医生，这星期正在休假。今天最大的计划，是在茶凉掉之前记得把它喝完。",
+    "daily": "收好手机，给假期留一点空白。",
+    "personality": "休假时努力留出安静，不把每一刻都变成工作。",
+    "places": [
+      "山坡花园",
+      "海岸",
+      "港口"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/leila.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-leila.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "这星期休假，想在茶凉之前把它喝完。",
+    "schedule": [
+      {
+        "place": "山坡花园",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "海岸",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "港口",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Casey Morgan",
+    "role": "软件工程师",
+    "headline": "把事情做简单一点",
+    "bio": "Casey写软件，把电脑留在住处。Casey想看看，不再加一个应用程序，事情能不能也变简单。",
+    "daily": "在纸上删掉登记表多余的格子。",
+    "personality": "习惯追问哪些东西真的必要，愿意从简单的纸笔开始。",
+    "places": [
+      "潮间咖啡馆",
+      "港口",
+      "旧街"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/casey.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-casey.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "把电脑留在住处，看看事情能否变简单。",
+    "schedule": [
+      {
+        "place": "潮间咖啡馆",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "港口",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "旧街",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grant Cole",
+    "role": "退休金融从业者",
+    "headline": "邻居的午餐，不用报表",
+    "bio": "Grant以前从事金融工作，习惯计算事情值不值得。退休后，Grant发现邻居请吃午饭，不必先做一张报表。",
+    "daily": "把午餐预算折起来，先听街坊说话。",
+    "personality": "正在放下处处计算回报的习惯，给交谈留出空间。",
+    "places": [
+      "钓鱼码头",
+      "旧街",
+      "住户庭院"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/grant.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-grant.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "退休后，学着不为邻居的午餐做报表。",
+    "schedule": [
+      {
+        "place": "钓鱼码头",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "旧街",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "住户庭院",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avery Reed",
+    "role": "包裹投递员",
+    "headline": "给小船留一页速写",
+    "bio": "Avery平日送包裹，休息时带着速写本慢慢看街道。今天的一页里，还留着一艘没画完的小船。",
+    "daily": "喜欢画一直移动的小船；傍晚常到码头看船，不急着把画完成。",
+    "personality": "喜欢安静的陪伴，能接受不整齐的线条和未完成的一页。",
+    "places": [
+      "车站街",
+      "旧街",
+      "钓鱼码头"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/avery.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-avery.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "送包裹之余，把街道和小船画进速写本。",
+    "schedule": [
+      {
+        "place": "车站街",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "旧街",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "钓鱼码头",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samira Bell",
+    "role": "学校食堂厨师",
+    "headline": "没有名字的小调",
+    "bio": "Samira在学校食堂做饭。休息日不用听打饭铃，会轻轻哼起自己拼出的旋律。",
+    "daily": "看蔬菜、打轻轻的拍子，傍晚在码头听水声；哼的小调还没有名字。",
+    "personality": "希望有人安静听一会儿，却不想把哼歌变成正式演出。",
+    "places": [
+      "旧街",
+      "港口",
+      "钓鱼码头"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/samira.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-samira.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "休息时喜欢轻声哼自己编的小调。",
+    "schedule": [
+      {
+        "place": "旧街",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "港口",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "钓鱼码头",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Owen Price",
+    "role": "退休公交修理工",
+    "headline": "先听清，再辨认",
+    "bio": "Owen以前修公交车，退休后练习分辨海鸟的叫声。他觉得两件事都得先听，别急着动手。",
+    "daily": "随身做鸟声记录；在路边停下来，让小鸟先过去。",
+    "personality": "愿意慢慢听，也承认自己会认错，不把退休后的爱好说成专家本领。",
+    "places": [
+      "港口",
+      "滨海道",
+      "海岸"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/owen.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-owen.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "以前修公交车，如今练习分辨海鸟叫声。",
+    "schedule": [
+      {
+        "place": "港口",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "滨海道",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "海岸",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dani Costa",
+    "role": "图书馆工作人员",
+    "headline": "一片落叶，也是一页",
+    "bio": "Dani在图书馆工作，想做一本收录街坊种花故事的小册子。只有一片落叶的一页，她也觉得很好。",
+    "daily": "捡落叶夹进本子，不摘活着的叶子；在旧街记故事，在庭院轻声交谈。",
+    "personality": "尊重讲故事的人：记录他们喜欢的事，不把别人的秘密写进去。",
+    "places": [
+      "山坡花园",
+      "旧街",
+      "住户庭院"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/dani.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-dani.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "想做一本小册子，收集街坊种花的故事。",
+    "schedule": [
+      {
+        "place": "山坡花园",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "旧街",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "住户庭院",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mara",
+    "role": "房东",
+    "headline": "迎接新房客的人",
+    "bio": "Mara是夏日租屋的房东，在车站街迎接新房客，提醒你先放下行李，慢慢认识小镇。",
+    "daily": "休息时沿街留意窗台上的新花；比起急着提建议，如今更愿意说一句好看。",
+    "personality": "热心地招呼新来的人，也给人留出慢慢熟悉的时间。",
+    "places": [
+      "车站街",
+      "住户庭院",
+      "旧街"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/mara.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-mara.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "留意窗台的新花，学着只说好看。",
+    "schedule": [
+      {
+        "place": "车站街",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "住户庭院",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "旧街",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ],
+    "arrivalPresence": {
+      "place": "车站街",
+      "time": "初到时全天"
+    }
+  },
+  {
+    "name": "Theo",
+    "role": "咖啡馆店员",
+    "headline": "柜台后的一杯咖啡",
+    "bio": "Theo在潮间咖啡馆工作。初见时，他正在擦杯子，会招呼刚到小镇的人坐一会儿。",
+    "daily": "下班后想喝别人泡的咖啡，最好不用自己收杯子；最近还在学烤面包。",
+    "personality": "说话随和，愿意让初来的人坐下来休息。",
+    "places": [
+      "潮间咖啡馆",
+      "港口"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/theo.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-theo.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "学着烤面包，也盼着喝一杯别人泡的咖啡。",
+    "schedule": [
+      {
+        "place": "潮间咖啡馆",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "港口",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "June",
+    "role": "修理铺店主",
+    "headline": "旧锤子，熟悉的手感",
+    "bio": "June经营自己的修理铺，全年都有人带来坏掉的东西。需要借工具时，可以来工作台旁找她。",
+    "daily": "舍不得换掉父亲那把锤子的柄：旧凹痕恰好贴着手。",
+    "personality": "看重物件留下的使用痕迹，并不觉得旧东西都要变得像新的一样。",
+    "places": [
+      "June的修理铺",
+      "钓鱼码头"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/june.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-june.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "珍惜旧物的痕迹，有些磨损不必修掉。",
+    "schedule": [
+      {
+        "place": "June的修理铺",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "钓鱼码头",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Idris",
+    "role": "拳馆教练",
+    "headline": "先学脚步，再出拳",
+    "bio": "Idris在港口拳馆教练习脚步。他会让人先学移动和躲闪，也明确告诉每个人都可以说停。",
+    "daily": "练习之外，惦记着给窗边植物换土；记得住步法，却常忘记上次浇水是什么时候。",
+    "personality": "教练习时耐心，重视参与者自己的节奏与边界。",
+    "places": [
+      "港口拳馆",
+      "海岸"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/idris.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-idris.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "记得每个步法，却总忘记上次何时浇水。",
+    "schedule": [
+      {
+        "place": "港口拳馆",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "海岸",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ruth",
+    "role": "码头钓鱼人",
+    "headline": "鱼桶旁的备用鱼竿",
+    "bio": "Ruth常在钓鱼码头。她把备用鱼竿靠在栏杆边，也会邀请你试一竿。",
+    "daily": "除了鱼，还爱看路人的鞋：干净的鞋和沾着草籽的鞋，在她眼里有不同的故事。",
+    "personality": "观察细致，开场的话带一点爽快的幽默。",
+    "places": [
+      "钓鱼码头",
+      "海岸"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/ruth.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-ruth.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "看鱼，也留意来往行人鞋尖上的草籽。",
+    "schedule": [
+      {
+        "place": "钓鱼码头",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "海岸",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Luis",
+    "role": "杂货铺店主",
+    "headline": "多做一碗番茄汤",
+    "bio": "Luis经营街角杂货铺。看到新面孔，他会告诉你门边有免费的饮水，也提醒别第一天就把钱花光。",
+    "daily": "用卖剩的番茄煮汤，每锅都不同；多做一碗，等偶尔来坐坐的邻居。",
+    "personality": "会照顾刚到的人，也愿意给邻居留一个座位。",
+    "places": [
+      "街角杂货铺",
+      "旧街"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/luis.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-luis.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "用卖剩的番茄煮汤，为邻居多留一碗。",
+    "schedule": [
+      {
+        "place": "街角杂货铺",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "旧街",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nell",
+    "role": "旧物店店主",
+    "headline": "留下来的照片与明信片",
+    "bio": "Nell经营旧物店，初见时正在整理褪色照片。她留意那些人们搬走时不愿带走、却舍不得丢的东西。",
+    "daily": "留着一张没有写字的明信片，总觉得有些话应该亲口说。",
+    "personality": "珍惜旧物与人的联系，愿意听它们留下的故事。",
+    "places": [
+      "旧物店",
+      "住户庭院"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/nell.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-nell.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "珍惜老照片，也留着一张未写字的明信片。",
+    "schedule": [
+      {
+        "place": "旧物店",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "住户庭院",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elena",
+    "role": "庭院住户",
+    "headline": "只有你看见的新叶",
+    "bio": "Elena住在庭院，会浇花，也在意院子的安静：这里还是她母亲午睡的地方。",
+    "daily": "种花最开心的时刻，是新叶刚冒出来、只有自己注意到的那一天。",
+    "personality": "关注细小变化，也维护家人休息的空间。",
+    "places": [
+      "住户庭院",
+      "山坡花园"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/elena.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-elena.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "照顾花草和家人，喜欢刚冒出的新叶。",
+    "schedule": [
+      {
+        "place": "住户庭院",
+        "ranges": [
+          "06:00–12:00",
+          "17:00–21:00"
+        ]
+      },
+      {
+        "place": "山坡花园",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arthur",
+    "role": "退休气象观测者",
+    "headline": "有时，只看云",
+    "bio": "Arthur以前每天测量风，如今仍在旧气象站附近擦拭风向仪，也熟悉下面的小路。",
+    "daily": "偶尔只看云、不写数字，让自己有一天真正像已经下班。",
+    "personality": "熟悉天气与地方，也学着给退休生活留一点空白。",
+    "places": [
+      "旧气象站",
+      "山坡"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/arthur.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-arthur.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "熟悉天气与小路，偶尔只看云、不写数字。",
+    "schedule": [
+      {
+        "place": "旧气象站",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "山坡",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mira Vale",
+    "role": "档案修复师",
+    "headline": "修补纸张，尊重记忆",
+    "bio": "Mira修复纸张和旧照片。她能补好一条裂缝，却不认为这带来了权利替照片里的人决定要不要被记住。",
+    "daily": "翻看待修复照片的纸张笔记。",
+    "personality": "对修复与展示的边界很谨慎，尊重照片里的人。",
+    "places": [
+      "旧街",
+      "旧物店",
+      "潮间咖啡馆"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/mira.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-mira.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "修复纸张与旧照片，尊重被记住的意愿。",
+    "schedule": [
+      {
+        "place": "旧街",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "旧物店",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "潮间咖啡馆",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Harper Quinn",
+    "role": "AI应用开发者",
+    "headline": "先看看今天的新叶",
+    "bio": "Harper在分布式小团队开发面向小型组织的AI应用，远程协作。短住海湾时继续工作，也想在赶版本之外留一点空白。",
+    "personality": "容易先想到下一版该加什么，正在练习留意眼前的生活。",
+    "daily": "上午在咖啡馆整理材料，下午离开屏幕去看新叶，傍晚沿海岸散步。专注时希望11:00后再聊。",
+    "cardSummary": "做AI应用，也想留意今天已经长出的新叶。",
+    "places": [
+      "潮间咖啡馆",
+      "山坡花园",
+      "海岸"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/harper.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-harper.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "schedule": [
+      {
+        "place": "潮间咖啡馆",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "山坡花园",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "海岸",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tess Moreno",
+    "role": "开源文档与社区维护者",
+    "headline": "一张还没开头的明信片",
+    "bio": "Tess为开源团队维护入门文档、贡献说明和社区答复，以异步方式工作。在海湾短住时，也想找回与老朋友说话的时间。",
+    "personality": "愿意把别人卡住的地方写清楚，也为自己的答复留出边界。",
+    "daily": "喜欢旧明信片与码头的水声；下午13:00–16:00安静整理文档，之后收工，傍晚不再值班。",
+    "cardSummary": "把别人卡住的地方写清楚，也给自己的回复留时间。",
+    "places": [
+      "旧街",
+      "潮间咖啡馆",
+      "钓鱼码头"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/tess.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-tess.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "schedule": [
+      {
+        "place": "旧街",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "潮间咖啡馆",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "钓鱼码头",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Noor Bennett",
+    "role": "科技产品研究者",
+    "headline": "先问问，要不要一起坐",
+    "bio": "Noor在分布式产品团队整理公开资料与既有匿名研究结论，是在不同住处之间短住的远程工作者。希望在海湾结识还会再见面的朋友。",
+    "personality": "好奇心常带来很多问题，也在学习先问对方是否愿意一起坐一会儿。",
+    "daily": "上午沿海岸走走，下午在旧物店读书、整理材料；13:00–15:00专注时会约你稍后再聊，傍晚把研究本收起。",
+    "cardSummary": "研究科技产品，也在学习先问谁愿意一起坐一会儿。",
+    "places": [
+      "海岸",
+      "旧物店",
+      "住户庭院"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/noor.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-noor.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "schedule": [
+      {
+        "place": "海岸",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "旧物店",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "住户庭院",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  }
+]
