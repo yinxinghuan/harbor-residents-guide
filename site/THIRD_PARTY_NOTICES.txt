@@ -62,3 +62,10 @@ Tess Moreno: game-tess.png; SHA256 c70515c7d5332b33f7e8f557878509f3f6b8065d181f7
 Noor Bennett — portrait source: https://images.aiwaves.tech/uploads/1791282254268-4rbnyzmii1.webp
 Noor Bennett: noor.png; SHA256 b463bbe3c5d1503b042ddc28b515c0f6154d8918ed25bfc10f421d1ba80797a7
 Noor Bennett: game-noor.png; SHA256 f6a7709b666a2862eaca5cc5e3116c208a63a57386c064e8ecf84109f6c19753
+
+Actual gameplay screenshots — 2026-10-08 advertising landing page
+Screenshots show the actual compiled A Summer in Harbor game renderer and ordinary gameplay UI in isolated demonstration journeys. They are existing captures, not generated or repainted gameplay. No original player save or private account is shown. Pixels are copied unchanged. Existing AlterU project usage permission above applies.
+play-coast.png; 390×844; SHA256 d08ea635c6d4ff6baa5c6c5f94c0d659c6b36b32bbe511de6d2844208c6ca412; Coast exploration and native shore crab; source: b24ff51149a2b8c34782991765aa90f557c0994e.
+play-conversation.png; 390×844; SHA256 7d83b6c7fe75d9de4d809fe979b9bec55f73a8c13b7223e4dcfea85bb016a56b; Theo accepts an actual basil delivery; source: b24ff51149a2b8c34782991765aa90f557c0994e.
+play-garden.png; 390×844; SHA256 40ca87413a6c3d8cebd2045a0b33a6aa3c369922b69352bd9f996633bebeb886; Existing planted beds with mature radish, basil and tomato; source: Existing crop-renderer capture retained in released b24ff511 source; captured 2026-10-05, earlier menu layout.
+The garden screenshot was captured on 2026-10-05 for the released crop feature; its earlier menu layout is preserved. Coast and delivery screenshots show the released 2026-10-07 game build. These are browser-rendered game captures, not a claim of physical-device capture.

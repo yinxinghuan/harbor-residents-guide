@@ -2,29 +2,42 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#fff4d9"><meta name="description" content="在海湾，住过一个夏天。认识A Summer in Harbor里的居民，他们的工作、小习惯与常去的地方。">
-<title>A Summer in Harbor · 海湾的夏日与居民</title>
+<meta name="theme-color" content="#fff4d9">
+<meta name="description" content="一个会持续生长的海湾。自由探索海边小镇，结识居民、照料菜畦，让相遇与日常慢慢长成你的夏天。">
+<title>A Summer in Harbor · 一个会持续生长的海湾</title>
+<meta property="og:type" content="website"><meta property="og:title" content="A Summer in Harbor · 一个会持续生长的海湾"><meta property="og:description" content="自由探索海边小镇，结识居民、照料菜畦，让相遇与日常慢慢长成你的夏天。先看看真实游玩画面，再走进海湾。"><meta property="og:url" content="https://yinxinghuan.github.io/harbor-residents-guide/"><meta property="og:image" content="https://yinxinghuan.github.io/harbor-residents-guide/assets/harbor-poster.png"><meta property="og:image:alt" content="A Summer in Harbor官方海报：旅人带着行李来到夏日海湾">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg"><link rel="stylesheet" href="./style.css">
-<script type="module" src="./app.js"></script>
+<script type="module" src="./app.js"></script><script type="module" src="./gallery.js"></script>
 </head>
 <body>
-<a class="hg-skip" href="#residents">跳到居民</a>
+<a class="hg-skip" href="#play">跳到游玩画面</a>
 <header class="hg-masthead" id="top">
 <a class="hg-brand" href="#top" aria-label="A Summer in Harbor，回到页首"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M5 29c5-5 10 5 15 0s10 5 15 0M5 35c5-5 10 5 15 0s10 5 15 0M11 23V13l9-8 9 8v10M17 23V16h6v7"/></svg><span>A Summer<br>in Harbor</span></a>
-<nav class="hg-nav" aria-label="页面导航"><a href="#people">小镇居民</a><a href="#life">小镇生活</a></nav>
+<nav class="hg-nav" aria-label="页面导航"><a href="#play">怎么玩</a><a href="#people">认识居民</a></nav>
 <a class="hg-play hg-play--header" href="https://game.aiwaves.tech/e78df027-7ef4-4d49-82eb-ea91f03d9fb3/">走进海湾<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-5-5 5 5-5 5"/></svg></a>
 </header>
 <main>
-<section class="hg-intro" aria-labelledby="page-title"><h1 id="page-title">在海湾，<br>住过一个夏天。</h1><div class="hg-intro__copy"><p>沿着海边的小路走一走，<br class="hg-desktop-break">在咖啡馆坐一会儿。<br>从一个名字开始，慢慢认识这座小镇。</p><a href="#people" class="hg-text-link">认识这里的人<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v16m-6-6 6 6 6-6"/></svg></a></div></section>
-<section class="hg-directory" id="people" aria-labelledby="people-title">
-<div class="hg-directory__line"><div><h2 id="people-title">先认识这里的人。</h2><p>常见出没时段，以游戏时间为准。</p></div><span class="hg-open-hint">点开人物，读读他们的日常<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></span></div>
-<p id="loading" role="status" class="hg-loading">正在翻开居民册…</p>
-<div id="residents" class="hg-grid" tabindex="-1"></div>
-<p id="error" role="alert" hidden>居民资料暂时没能打开。请刷新页面后再试。</p>
+<section class="hg-hero" aria-labelledby="page-title">
+<div class="hg-hero__copy"><p class="hg-eyebrow">A Summer in Harbor · 像素生活 RPG</p><h1 id="page-title">一个会持续<br>生长的海湾。</h1><p class="hg-hero__lead">自由探索海边小镇。你的经历会留下，相遇和日常也会随着游玩，慢慢长成自己的夏天。</p><div class="hg-hero__actions"><a class="hg-play" href="https://game.aiwaves.tech/e78df027-7ef4-4d49-82eb-ea91f03d9fb3/">走进海湾<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-5-5 5 5-5 5"/></svg></a><a class="hg-hero__peek" href="#play">先看看怎么玩<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v16m-6-6 6 6 6-6"/></svg></a></div></div>
+<figure class="hg-hero__art"><img src="./assets/harbor-poster.png" width="1024" height="1024" alt="夏日的海湾：旅人带着行李站在咖啡馆外，海边有灯塔、木屋与船只" draggable="false" fetchpriority="high"><figcaption>在这里，住过一个夏天。</figcaption></figure>
 </section>
-<section class="hg-life" id="life" aria-labelledby="life-title"><figure class="hg-life__picture"><img src="./assets/harbor-poster.png" width="1024" height="1024" alt="A Summer in Harbor的官方海报：新来者带着行李站在海边，远处有灯塔、船只和小镇" draggable="false" loading="lazy"><figcaption>A Summer in Harbor · 官方游戏美术</figcaption></figure><div class="hg-life__copy"><h2 id="life-title">熟悉一座小镇，<br>从日常开始。</h2><p class="hg-life__lead">你是租住一夏的新来者。<br>向着海边走，也向着新的相遇走。</p><div class="hg-life__chapter"><h3>让脚步决定下一站。</h3><p>穿过街区，沿码头走向海岸与山坡。游玩时，游戏时间会自然流逝，日光也会渐渐转入夜色；暂停或离线时，时间停下来。</p></div><div class="hg-life__chapter"><h3>聊工作，也聊喜欢的事。</h3><p>有人休息时画船，有人轻轻哼歌。Mara、Avery、Samira已有从陌生到亲近的五阶段关系：在不同的游戏日交流、兑现小约定，留下共同的经历。</p></div><div class="hg-life__chapter"><h3>给小事留一点时间。</h3><p>到码头试一竿鱼，在花园照料植物，或者去拳馆练练脚步。收获罗勒后，可以接下Theo厨房的供货订单，让一份收成走进小镇的日常。</p></div><div class="hg-life__chapter"><h3>留意身边的小生命。</h3><p>猫、海鸥和岸边的螃蟹也生活在这里。安静地观察，再把发现分享给居民，留下属于这次旅程的记录。</p></div></div></section>
-<section class="hg-invitation" aria-labelledby="invitation-title"><svg class="hg-waves" viewBox="0 0 120 24" aria-hidden="true"><path d="M1 5c10-9 20 9 30 0s20 9 30 0 20 9 30 0 20 9 29 0M1 18c10-9 20 9 30 0s20 9 30 0 20 9 30 0 20 9 29 0"/></svg><h2 id="invitation-title">故事，留到海湾里相遇。</h2><p>带着一点好奇心，开始你的夏日生活。</p><a class="hg-play" href="https://game.aiwaves.tech/e78df027-7ef4-4d49-82eb-ea91f03d9fb3/">走进海湾<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-5-5 5 5-5 5"/></svg></a></section>
+<section class="hg-gameplay" id="play" aria-labelledby="play-title">
+<div class="hg-section-heading"><div><p class="hg-eyebrow">先看一眼海湾</p><h2 id="play-title">你会在这里，做些什么？</h2></div><p class="hg-gameplay__hint">实际游戏画面 <span>· 横滑浏览，点开放大</span></p></div>
+<div class="hg-gameplay__track" tabindex="0" aria-label="三幅实际游戏画面，手机可左右滑动浏览">
+<figure class="hg-scene"><button class="hg-scene__open" type="button" aria-haspopup="dialog" aria-label="放大游玩画面：走向海边" data-caption="走向海边 · 自由探索街巷、码头与海岸"><img src="./assets/play-coast.png" width="390" height="844" loading="lazy" decoding="async" draggable="false" alt="真实游戏画面：玩家站在海岸灯塔旁，下方有移动摇杆和岸蟹互动按钮"><span>打开完整画面<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m8 0h5v-5M3 3l6 6m12-6-6 6M3 21l6-6m12 6-6-6"/></svg></span></button><figcaption><span class="hg-scene__number">01 / 探索</span><h3>顺着小路，走向海边。</h3><p>穿过街巷，走到灯塔旁。靠近感兴趣的人与物，再决定要不要停下来。</p></figcaption></figure>
+<figure class="hg-scene"><button class="hg-scene__open" type="button" aria-haspopup="dialog" aria-label="放大游玩画面：和Theo聊一会儿" data-caption="和Theo聊一会儿 · 把收获的罗勒送进厨房"><img src="./assets/play-conversation.png" width="390" height="844" loading="lazy" decoding="async" draggable="false" alt="真实游戏对话：Theo收到两份罗勒，记下厨房供货，玩家可以继续交谈"><span>打开完整画面<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m8 0h5v-5M3 3l6 6m12-6-6 6M3 21l6-6m12 6-6-6"/></svg></span></button><figcaption><span class="hg-scene__number">02 / 相遇</span><h3>一份收成，一次新的交谈。</h3><p>把种好的罗勒送给Theo。一次小小的交货，也能成为你与小镇的联系。</p></figcaption></figure>
+<figure class="hg-scene"><button class="hg-scene__open" type="button" aria-haspopup="dialog" aria-label="放大游玩画面：照料菜畦" data-caption="照料菜畦 · 种植、浇水，再回来收获"><img src="./assets/play-garden.png" width="390" height="844" loading="lazy" decoding="async" draggable="false" alt="真实游戏种植画面：山坡花园里有三畦成熟作物，玩家正走近其中一畦"><span>打开完整画面<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3H3v5m13-5h5v5M3 16v5h5m8 0h5v-5M3 3l6 6m12-6-6 6M3 21l6-6m12 6-6-6"/></svg></span></button><figcaption><span class="hg-scene__number">03 / 日常</span><h3>等菜畦，长出新的叶子。</h3><p>种植、浇水，再回来收获。菜畦会跟着游戏里的时间，慢慢长大。</p></figcaption></figure>
+</div>
+</section>
+<section class="hg-growth" id="growth" aria-labelledby="growth-title"><div class="hg-section-heading"><div><p class="hg-eyebrow">让日常，长成故事</p><h2 id="growth-title">生长，发生在你经历的小事里。</h2></div></div><div class="hg-growth__grid"><article><span class="hg-growth__number">01</span><h3>从问候，到被记住。</h3><p>隔几个游戏日再来聊聊，认真兑现约定，把共同经历带回来。Mara、Avery、Samira的关系，会从陌生逐步走向亲近。</p></article><article><span class="hg-growth__number">02</span><h3>一份收成，有新的去处。</h3><p>从照料菜畦到给Theo的厨房供货。种下的东西、做过的小事，会成为行囊里的收获和旅程中的记录。</p></article><article><span class="hg-growth__number">03</span><h3>你的夏天，会一点点累积。</h3><p>听邻居聊自己的生活，观察猫、海鸥与岸蟹。见过的人、留下的发现，慢慢积成属于你的海湾生活。</p></article></div><div class="hg-growth__continuing"><svg class="hg-waves" viewBox="0 0 120 24" aria-hidden="true"><path d="M1 5c10-9 20 9 30 0s20 9 30 0 20 9 30 0 20 9 29 0M1 18c10-9 20 9 30 0s20 9 30 0 20 9 30 0 20 9 29 0"/></svg><p>海湾也在持续扩展，新的居民与日常玩法陆续加入。<br class="hg-desktop-break">游戏时间在游玩时推进；暂停或离线时，时间停下来。</p></div></section>
+<section class="hg-directory hg-directory--landing" id="people" aria-labelledby="people-title">
+<div class="hg-directory__line"><div><p class="hg-eyebrow">先从一个名字开始</p><h2 id="people-title">22位居民，各有自己的日常。</h2><p>从肖像，到你在游戏里见到的模样。<br>常见出没时段，以游戏时间为准。</p></div><span class="hg-open-hint">点开人物，读读他们的日常<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></span></div>
+<p id="loading" role="status" class="hg-loading">正在翻开居民册…</p><div id="residents" class="hg-grid" tabindex="-1"></div><p id="error" role="alert" hidden>居民资料暂时没能打开。请刷新页面后再试。</p>
+</section>
+<section class="hg-invitation" aria-labelledby="invitation-title"><svg class="hg-waves" viewBox="0 0 120 24" aria-hidden="true"><path d="M1 5c10-9 20 9 30 0s20 9 30 0 20 9 30 0 20 9 29 0M1 18c10-9 20 9 30 0s20 9 30 0 20 9 30 0 20 9 29 0"/></svg><h2 id="invitation-title">你的夏天，从第一次相遇开始。</h2><p>带着一点好奇心，走进这个持续生长的海湾。</p><a class="hg-play" href="https://game.aiwaves.tech/e78df027-7ef4-4d49-82eb-ea91f03d9fb3/">走进海湾<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-5-5 5 5-5 5"/></svg></a></section>
 </main>
-<footer class="hg-footer"><span class="hg-footer__brand">A Summer in Harbor</span><p>介绍依据游戏的基础人物与日常设定整理。人物均为虚构角色；<br class="hg-desktop-break">常见地点是平日习惯，职业对话属于故事内容。</p><a href="./THIRD_PARTY_NOTICES.txt">美术来源与使用说明</a></footer>
+<footer class="hg-footer"><span class="hg-footer__brand">A Summer in Harbor</span><p>人物均为虚构角色；常见地点可能随游戏进度变化。<br class="hg-desktop-break">介绍依据已发布的基础设定与玩法，职业对话属于故事内容。</p><a href="./THIRD_PARTY_NOTICES.txt">美术与游玩画面来源</a></footer>
 <dialog id="resident-dialog" class="hg-dialog" aria-labelledby="detail-name"><div class="hg-detail__bar"><div id="detail-title" class="hg-detail__identity"></div><button id="close" class="hg-close" aria-label="关闭人物详情，返回居民"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div><div id="detail" class="hg-detail"></div></dialog>
+<dialog id="screen-dialog" class="hg-screen-dialog" aria-labelledby="screen-title"><div class="hg-screen-dialog__bar"><h2 id="screen-title">游玩画面</h2><button id="screen-close" class="hg-close" aria-label="关闭游玩画面，返回页面"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div><p class="hg-screen-dialog__hint">原尺寸画面，可滑动查看。</p><div id="screen-pane" class="hg-screen-dialog__pane" tabindex="0" aria-label="完整游玩画面，可上下左右滚动"><div id="screen-picture"></div></div></dialog>
 </body></html>
