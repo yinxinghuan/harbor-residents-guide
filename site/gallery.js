@@ -11,7 +11,7 @@ document.querySelectorAll('.hg-scene__open').forEach(button=>{
     const img=new Image();
     img.addEventListener('error',()=>{
       const message=document.createElement('p');
-      message.textContent='游玩画面暂时无法显示，请稍后再试。';
+      message.textContent=document.documentElement.lang==='en'?'The gameplay screenshot is temporarily unavailable. Please try again later.':'游玩画面暂时无法显示，请稍后再试。';
       picture.replaceChildren(message);
     },{once:true});
     img.src=source.getAttribute('src');

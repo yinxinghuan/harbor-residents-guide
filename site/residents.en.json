@@ -1,0 +1,1089 @@
+[
+  {
+    "name": "Rowan Ellis",
+    "role": "Baker",
+    "headline": "A basket with just enough bread",
+    "bio": "Rowan bakes bread and often makes a little extra, then hates seeing loaves left at closing time. This summer, Rowan wants to bake a little less and listen to what people actually want.",
+    "daily": "Sort the day’s bread list.",
+    "personality": "Rowan cares about food going to waste and is willing to change a familiar routine.",
+    "places": [
+      "Old Street",
+      "Tide Café"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/rowan.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-rowan.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Bakes bread and thinks about every loaf that goes unused.",
+    "schedule": [
+      {
+        "place": "Old Street",
+        "ranges": [
+          "06:00–12:00",
+          "17:00–21:00"
+        ]
+      },
+      {
+        "place": "Tide Café",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jordan Pike",
+    "role": "Coastal inspector",
+    "headline": "Write the problem down first",
+    "bio": "Jordan checks the railings and signs along the shore. When something is wrong, Jordan records it without claiming that a glance has already fixed it.",
+    "daily": "Check the work log for coastal signs.",
+    "personality": "Jordan carefully separates observation, a written record, and a completed repair.",
+    "places": [
+      "Fishing Pier",
+      "Shore",
+      "Harbor"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/jordan.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-jordan.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Checks railings and signs along the shore, recording problems first.",
+    "schedule": [
+      {
+        "place": "Fishing Pier",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Shore",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Harbor",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Leila Hart",
+    "role": "Doctor on leave",
+    "headline": "A holiday long enough to finish the tea",
+    "bio": "Leila is a doctor taking this week off. Today’s biggest plan is to remember to drink the tea before it gets cold.",
+    "daily": "Put the phone away and leave some room in the holiday.",
+    "personality": "Leila is trying to make space for quiet without turning every moment into work.",
+    "places": [
+      "Hillside Garden",
+      "Shore",
+      "Harbor"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/leila.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-leila.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "This week is for rest, and for finishing the tea while it is warm.",
+    "schedule": [
+      {
+        "place": "Hillside Garden",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Shore",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Harbor",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Casey Morgan",
+    "role": "Software engineer",
+    "headline": "Make it a little simpler",
+    "bio": "Casey writes software and has left the computer at the lodging. Could things become simpler without adding one more app?",
+    "daily": "Cross unnecessary boxes off a paper form.",
+    "personality": "Casey asks what is truly needed and is willing to begin with pen and paper.",
+    "places": [
+      "Tide Café",
+      "Harbor",
+      "Old Street"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/casey.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-casey.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Leaves the computer at home to see whether things can be simpler.",
+    "schedule": [
+      {
+        "place": "Tide Café",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Harbor",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Old Street",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grant Cole",
+    "role": "Retired finance professional",
+    "headline": "A neighbor’s lunch needs no spreadsheet",
+    "bio": "Grant used to work in finance and habitually calculated whether something was worthwhile. After retiring, Grant discovered that a neighbor’s lunch invitation needs no spreadsheet.",
+    "daily": "Fold up the lunch budget and listen to the neighbors first.",
+    "personality": "Grant is learning to set aside calculations of return and leave room for conversation.",
+    "places": [
+      "Fishing Pier",
+      "Old Street",
+      "Residents’ Courtyard"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/grant.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-grant.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "After retirement, learns to leave spreadsheets out of lunch with neighbors.",
+    "schedule": [
+      {
+        "place": "Fishing Pier",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Old Street",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Residents’ Courtyard",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Avery Reed",
+    "role": "Parcel courier",
+    "headline": "A sketchbook page for a small boat",
+    "bio": "Avery delivers parcels and spends breaks slowly sketching the streets. Today’s page still has an unfinished little boat.",
+    "daily": "Sketch boats that keep moving; watch them from the pier in the evening without rushing to finish.",
+    "personality": "Avery likes quiet company and accepts uneven lines and an unfinished page.",
+    "places": [
+      "Station Street",
+      "Old Street",
+      "Fishing Pier"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/avery.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-avery.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Delivers parcels and sketches streets and boats between rounds.",
+    "schedule": [
+      {
+        "place": "Station Street",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Old Street",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Fishing Pier",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samira Bell",
+    "role": "School cafeteria cook",
+    "headline": "A tune without a name",
+    "bio": "Samira cooks at a school cafeteria. On a day off without the lunch bell, Samira hums a melody of their own making.",
+    "daily": "Look at vegetables, tap a gentle beat, and listen to the water at the pier in the evening; the tune still has no name.",
+    "personality": "Samira would like someone to listen quietly without turning a hum into a performance.",
+    "places": [
+      "Old Street",
+      "Harbor",
+      "Fishing Pier"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/samira.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-samira.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Hums little tunes of their own while taking a break.",
+    "schedule": [
+      {
+        "place": "Old Street",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Harbor",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Fishing Pier",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Owen Price",
+    "role": "Retired bus mechanic",
+    "headline": "Listen first, then identify",
+    "bio": "Owen once repaired buses and now practices recognizing seabird calls. Both, Owen thinks, begin with listening before reaching for a tool.",
+    "daily": "Keep notes on bird calls and stop by the road to let small birds pass.",
+    "personality": "Owen listens patiently, admits mistakes, and never claims to be an expert in a new hobby.",
+    "places": [
+      "Harbor",
+      "Coastal Walk",
+      "Shore"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/owen.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-owen.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "A former bus mechanic learning to tell seabird calls apart.",
+    "schedule": [
+      {
+        "place": "Harbor",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Coastal Walk",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Shore",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dani Costa",
+    "role": "Library worker",
+    "headline": "A fallen leaf can be a page",
+    "bio": "Dani works at the library and wants to make a booklet of neighbors’ flower growing stories. A page holding only one fallen leaf would be welcome too.",
+    "daily": "Collect fallen leaves, never living ones; record stories on Old Street and speak quietly in the courtyard.",
+    "personality": "Dani records what people love and respects the stories they choose to keep private.",
+    "places": [
+      "Hillside Garden",
+      "Old Street",
+      "Residents’ Courtyard"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/dani.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-dani.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Plans a booklet of neighbors’ stories about growing flowers.",
+    "schedule": [
+      {
+        "place": "Hillside Garden",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Old Street",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Residents’ Courtyard",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mara",
+    "role": "Landlord",
+    "headline": "The first welcome to town",
+    "bio": "Mara rents the summer cottage and welcomes new tenants on Station Street, suggesting they put down their bags and get to know the town slowly.",
+    "daily": "Notice new flowers in windows along the street; lately Mara would rather say they look lovely than rush into advice.",
+    "personality": "Mara warmly welcomes newcomers and gives them time to feel at home.",
+    "places": [
+      "Station Street",
+      "Residents’ Courtyard",
+      "Old Street"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/mara.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-mara.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Notices new flowers in the windows and learns to simply admire them.",
+    "schedule": [
+      {
+        "place": "Station Street",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Residents’ Courtyard",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Old Street",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ],
+    "arrivalPresence": {
+      "place": "Station Street",
+      "time": "All day on arrival"
+    }
+  },
+  {
+    "name": "Theo",
+    "role": "Café worker",
+    "headline": "A coffee from behind the counter",
+    "bio": "Theo works at Tide Café. At your first meeting he is wiping cups and invites a new arrival to sit for a while.",
+    "daily": "After work, Theo would like coffee made by someone else, ideally without clearing the cups; he is learning to bake bread too.",
+    "personality": "Easy to talk to, Theo offers newcomers a place to rest.",
+    "places": [
+      "Tide Café",
+      "Harbor"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/theo.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-theo.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Learning to bake bread, and hoping someone else will make the next coffee.",
+    "schedule": [
+      {
+        "place": "Tide Café",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "Harbor",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "June",
+    "role": "Repair shop owner",
+    "headline": "An old hammer, a familiar grip",
+    "bio": "June runs a repair shop where broken things arrive all year. If you need to borrow a tool, find her by the workbench.",
+    "daily": "June cannot bear to replace the handle of her father’s hammer: its old dents fit her hand.",
+    "personality": "She values the marks left by use and does not think every old object must look new.",
+    "places": [
+      "June’s Workshop",
+      "Fishing Pier"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/june.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-june.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Values the traces of use; some worn places need no repair.",
+    "schedule": [
+      {
+        "place": "June’s Workshop",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "Fishing Pier",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Idris",
+    "role": "Gym coach",
+    "headline": "Footwork before a punch",
+    "bio": "Idris coaches footwork at Harbor Gym. Everyone learns to move and dodge first, and everyone can say stop.",
+    "daily": "Outside practice, Idris wants to repot the window plant; he remembers every step but often forgets the last watering day.",
+    "personality": "Patient when coaching, Idris respects each participant’s pace and boundaries.",
+    "places": [
+      "Harbor Gym",
+      "Shore"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/idris.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-idris.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Remembers every step, but not always when the plant was last watered.",
+    "schedule": [
+      {
+        "place": "Harbor Gym",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "Shore",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ruth",
+    "role": "Pier angler",
+    "headline": "A spare rod beside the bucket",
+    "bio": "Ruth often fishes at the pier. She rests a spare rod against the railing and invites you to try a cast.",
+    "daily": "Ruth watches shoes as well as fish: clean shoes and shoes dotted with grass seed tell different stories to her.",
+    "personality": "Observant and direct, Ruth opens conversations with a brisk sense of humor.",
+    "places": [
+      "Fishing Pier",
+      "Shore"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/ruth.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-ruth.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Watches the fish and the grass seeds on passing shoes.",
+    "schedule": [
+      {
+        "place": "Fishing Pier",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "Shore",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Luis",
+    "role": "Corner store owner",
+    "headline": "One extra bowl of tomato soup",
+    "bio": "Luis runs the corner store. He shows new faces the free drinking water by the door and advises them not to spend everything on day one.",
+    "daily": "Cook soup with leftover tomatoes, different every time, and save an extra bowl for a neighbor who may stop by.",
+    "personality": "Luis looks after newcomers and keeps a seat for a neighbor.",
+    "places": [
+      "Corner Store",
+      "Old Street"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/luis.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-luis.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Makes soup with leftover tomatoes and saves a bowl for a neighbor.",
+    "schedule": [
+      {
+        "place": "Corner Store",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "Old Street",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nell",
+    "role": "Secondhand shop owner",
+    "headline": "Photos and postcards left behind",
+    "bio": "Nell runs a secondhand shop and is sorting faded photographs when you first meet. She notices the things people cannot take when moving, yet cannot bear to throw away.",
+    "daily": "Keep an unwritten postcard because some words feel better said in person.",
+    "personality": "Nell treasures the connection between old objects and people, and listens to the stories they carry.",
+    "places": [
+      "Secondhand Shop",
+      "Residents’ Courtyard"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/nell.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-nell.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Treasures old photographs and keeps a postcard still unwritten.",
+    "schedule": [
+      {
+        "place": "Secondhand Shop",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "Residents’ Courtyard",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elena",
+    "role": "Courtyard resident",
+    "headline": "A new leaf only you noticed",
+    "bio": "Elena lives by the courtyard, waters flowers, and cares about keeping it quiet: her mother naps here too.",
+    "daily": "The best moment in gardening is the day a new leaf appears and only Elena notices.",
+    "personality": "Elena sees small changes while protecting a place where family can rest.",
+    "places": [
+      "Residents’ Courtyard",
+      "Hillside Garden"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/elena.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-elena.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Cares for plants and family, and loves the first new leaf.",
+    "schedule": [
+      {
+        "place": "Residents’ Courtyard",
+        "ranges": [
+          "06:00–12:00",
+          "17:00–21:00"
+        ]
+      },
+      {
+        "place": "Hillside Garden",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arthur",
+    "role": "Retired weather observer",
+    "headline": "Sometimes, just watch the clouds",
+    "bio": "Arthur used to measure the wind every day. He still dusts the wind vane near the old weather station and knows the path below.",
+    "daily": "Sometimes watch clouds without writing down numbers, so a day can finally feel like a day off.",
+    "personality": "Arthur knows the weather and the local paths, and is learning to leave room in retirement.",
+    "places": [
+      "Old Weather Station",
+      "Hillside"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/arthur.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-arthur.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Knows weather and paths, but sometimes watches clouds without a number.",
+    "schedule": [
+      {
+        "place": "Old Weather Station",
+        "ranges": [
+          "06:00–17:00"
+        ]
+      },
+      {
+        "place": "Hillside",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mira Vale",
+    "role": "Archive conservator",
+    "headline": "Mend the paper, respect the memory",
+    "bio": "Mira repairs paper and old photographs. Mending a tear does not, to her, grant the right to decide whether the people pictured wish to be remembered.",
+    "daily": "Review notes on the paper of photographs awaiting repair.",
+    "personality": "Mira takes care with the boundary between restoration and display, respecting the people in a photograph.",
+    "places": [
+      "Old Street",
+      "Secondhand Shop",
+      "Tide Café"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/mira.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-mira.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "cardSummary": "Restores paper and photographs while respecting wishes about memory.",
+    "schedule": [
+      {
+        "place": "Old Street",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Secondhand Shop",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Tide Café",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Harper Quinn",
+    "role": "AI app developer",
+    "headline": "Look at today’s new leaf first",
+    "bio": "Harper builds AI apps for small organizations in a distributed team. Working remotely during a short stay in Harbor, Harper hopes for a little space beyond the next release.",
+    "personality": "Harper tends to think of the next feature first and is learning to notice the life right here.",
+    "daily": "Prepare materials at the café in the morning, leave the screen for new leaves in the afternoon, and walk by the shore at dusk. During focused work, Harper prefers to talk after 11:00.",
+    "cardSummary": "Builds AI apps and wants to notice the leaves already growing today.",
+    "places": [
+      "Tide Café",
+      "Hillside Garden",
+      "Shore"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/harper.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-harper.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "schedule": [
+      {
+        "place": "Tide Café",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Hillside Garden",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Shore",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tess Moreno",
+    "role": "Open source documentation and community maintainer",
+    "headline": "A postcard not yet begun",
+    "bio": "Tess maintains onboarding documents, contribution guides, and community replies for an open source team, working asynchronously. During a short stay in Harbor, Tess wants more time to talk with old friends.",
+    "personality": "Tess explains where people get stuck while keeping boundaries around reply time.",
+    "daily": "Enjoy old postcards and the sound of water at the pier; work quietly on documentation from 13:00 to 16:00, then finish for the day.",
+    "cardSummary": "Explains difficult steps clearly and saves time for a reply of her own.",
+    "places": [
+      "Old Street",
+      "Tide Café",
+      "Fishing Pier"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/tess.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-tess.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "schedule": [
+      {
+        "place": "Old Street",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Tide Café",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Fishing Pier",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Noor Bennett",
+    "role": "Technology product researcher",
+    "headline": "Ask if someone would like to sit together",
+    "bio": "Noor reviews public material and existing anonymous research findings for a distributed product team. Moving between short stays, Noor hopes to make friends in Harbor they will meet again.",
+    "personality": "Curiosity brings many questions, and Noor is learning to ask first whether someone wants company.",
+    "daily": "Walk along the shore in the morning; read and sort materials in the secondhand shop in the afternoon. From 13:00 to 15:00 Noor may ask to talk later, then puts the research notebook away at dusk.",
+    "cardSummary": "Studies technology products and learns to ask before sitting together.",
+    "places": [
+      "Shore",
+      "Secondhand Shop",
+      "Residents’ Courtyard"
+    ],
+    "kind": "portrait",
+    "status": "",
+    "image": "./assets/noor.png",
+    "dimensions": [
+      256,
+      256
+    ],
+    "gameImage": "./assets/game-noor.png",
+    "gameDimensions": [
+      384,
+      512
+    ],
+    "gameFrame": [
+      128,
+      0,
+      128,
+      128
+    ],
+    "schedule": [
+      {
+        "place": "Shore",
+        "ranges": [
+          "06:00–12:00"
+        ]
+      },
+      {
+        "place": "Secondhand Shop",
+        "ranges": [
+          "12:00–17:00"
+        ]
+      },
+      {
+        "place": "Residents’ Courtyard",
+        "ranges": [
+          "17:00–21:00"
+        ]
+      }
+    ]
+  }
+]
