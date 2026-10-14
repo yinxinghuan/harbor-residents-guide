@@ -4,7 +4,8 @@ let saved;
 try{saved=localStorage.getItem(key);}catch{}
 const preferred=saved==='zh'||saved==='en'?saved:(page==='zh'&& !navigator.language.toLowerCase().startsWith('zh')?'en':page);
 if(preferred!==page){
-  const target=preferred==='en'?'en.html':'index.html';
+  const planning=/\/plans(?:\.en)?\.html$/.test(location.pathname);
+  const target=planning?(preferred==='en'?'plans.en.html':'plans.html'):(preferred==='en'?'en.html':'index.html');
   location.replace(new URL(target+location.search+location.hash,location.href));
 }
 document.addEventListener('DOMContentLoaded',()=>{

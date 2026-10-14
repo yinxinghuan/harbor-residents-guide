@@ -95,3 +95,11 @@
 html[lang="en"] .hg-hero h1{letter-spacing:-.025em}
 html[lang="en"] .hg-future dt{overflow-wrap:anywhere}
 @media(max-width:700px){.hg-masthead{flex-wrap:wrap}.hg-language{order:3;width:100%;justify-content:center}.hg-play--header{margin-left:auto}.hg-play--header svg{display:none}.hg-language a,.hg-language span{flex:1}}
+
+/* Public document column; existing resident and gallery content is retained. */
+.hg-plan-entry{display:flex;align-items:center;justify-content:space-between;gap:32px;background:var(--sage);padding:32px;margin-bottom:40px;border-top:1px solid var(--rule)}
+.hg-plan-entry h2{font-family:var(--serif);font-size:32px;line-height:1.4;font-weight:500;margin:8px 0 12px}
+.hg-plan-entry p:not(.hg-eyebrow){max-width:720px;color:var(--muted)}
+.hg-plan-entry .hg-play{flex:none}
+@media(max-width:1100px){.hg-masthead{flex-wrap:wrap}.hg-nav{order:4;width:100%;margin-left:0;gap:20px}.hg-language{margin-left:auto}.hg-play--header{margin-left:0}}
+@media(max-width:700px){.hg-nav{display:flex;flex-wrap:wrap;gap:4px 16px}.hg-nav a{font-size:14px}.hg-language{margin-left:0}.hg-plan-entry{display:block;padding:24px 20px;margin-bottom:32px}.hg-plan-entry h2{font-size:27px}.hg-plan-entry .hg-play{margin-top:20px}}
