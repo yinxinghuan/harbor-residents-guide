@@ -1,0 +1,24 @@
+.agent-public .plan-intro{padding-top:24px}
+.agent-public .plan-intro>.hg-eyebrow{font-size:14px;margin-bottom:12px}
+.agent-public .plan-intro>p{max-width:860px}
+.agent-public .agent-release-note{max-width:860px}
+.agent-actions{display:flex;align-items:center;flex-wrap:wrap;gap:12px 24px;margin-top:24px}
+.agent-actions .plan-home{margin-left:0}
+.agent-public .agent-source,.agent-public .agent-small{font-size:14px;line-height:1.65;color:var(--muted)}
+.agent-public .agent-source{margin-top:12px}
+.agent-example{margin:24px 0;padding:4px 0 4px 24px;border-left:3px solid var(--ink)}
+.agent-steps{padding-left:24px}.agent-steps li{margin-bottom:20px}
+.agent-cycle{padding-left:24px}.agent-cycle li{margin-bottom:20px}
+.agent-cycle strong{font-size:19px}
+.agent-cycle p{margin-top:4px}
+.agent-evidence{display:grid;gap:24px;padding-bottom:24px}
+.agent-evidence>div{padding-left:20px;border-left:2px solid var(--rule)}
+.agent-evidence h3{font-size:20px;margin-top:12px}
+.agent-public .agent-table table{min-width:760px}
+.agent-public .agent-table th,.agent-public .agent-table td{font-size:16px}
+.agent-public .agent-table th:first-child{width:22%}
+.agent-public .agent-table th:nth-child(2){width:28%}
+.agent-public .agent-table th:last-child{width:50%}
+.agent-end{border-top:1px solid var(--rule);padding-top:24px;margin-top:32px;display:flex;flex-wrap:wrap;align-items:center;gap:20px 24px}
+.agent-history{display:inline-flex;align-items:center;min-height:44px;font-size:14px;line-height:1.6;text-underline-offset:4px}
+@media(max-width:700px){.agent-public .hg-masthead{flex-wrap:wrap}.agent-public .hg-brand{margin-right:auto}.agent-public .plan-home{margin-left:0}.agent-public .plan-intro>p{font-size:18px}.agent-example{padding-left:16px}.agent-evidence>div{padding-left:16px}}
